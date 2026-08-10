@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+umeng-config.json
+*.keystore
+*.jks
+*.p12
+*.mobileprovision
